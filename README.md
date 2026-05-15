@@ -1,4 +1,4 @@
-## Hi 👋This is Akanshabhargav
+## Hi,👋This is Akanshabhargav
 
 <!--
 **akanshabhargav/Akanshabhargav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
